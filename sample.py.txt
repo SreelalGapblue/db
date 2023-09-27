@@ -1,3 +1,0 @@
-print("Hello world");
-echo "Hi bi hoi"
-echo "Hello Gapblue"
